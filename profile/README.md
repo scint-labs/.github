@@ -1,0 +1,3 @@
+## Scint.co
+
+Hi there 👋
