@@ -1,4 +1,4 @@
-# Scint, collaborative intelligence.
+# Collaborative intelligence.
 
 Scint is not just a product; it's an evolving ecosystem intelligently designed to revolutionize the way businesses operate. Rooted in a sophisticated Python application and propelled by a robust prompt library, it stands as a testament to a visionary blend of business acumen and technical prowess.
 
