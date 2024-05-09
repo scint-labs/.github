@@ -1,1 +1,1 @@
-# .github
+# Scint Labs
